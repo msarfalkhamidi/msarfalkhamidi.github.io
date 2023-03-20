@@ -1,5 +1,5 @@
 Welcome!
-- 👋 Hi, I’m @msarfalkhamidi
+- 👋 Hi, I’m M Sarfal Khamidi
 - 👀 I’m interested in python programming and data science
 - 🌱 I’m currently studying in Universitas Negeri Yogyakarta
 - 📫 How to reach me? You can send an e-mail to msarfal.2020@student.uny.ac.id
