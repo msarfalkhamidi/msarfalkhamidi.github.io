@@ -5,4 +5,4 @@
 
 Visit Me On: 
 - [GitHub](https://github.com/msarfalkhamidi/) 
-- LinkedIN(https://www.linkedin.com/in/msarfalkhamidi-txt101/)
+- [LinkedIN](https://www.linkedin.com/in/msarfalkhamidi-txt101/)
