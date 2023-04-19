@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Formulir Pendaftaran</title>
+  <link rel="stylesheet" href="job module 2.2 form.css">
+</head>
+
+<body>
+  <div class="container">
+    <div class="subtitle">SMA Negeri 2 Kebumen</div>
+    <div class="title">Pendaftaran Ekstrakurikuler Seni Lukis</div>
+    <form action="#">
+      <div class="user-details">
+        <div class="input-box">
+          <span class="details">No. Induk Siswa (NIS)</span>
+          <input type="text" placeholder="nis" required>
+        </div>
+        <div class="input-box">
+          <span class="details">Kelas</span>
+          <input type="text" placeholder="kelas" required>
+        </div>
+        <div class="input-box">
+          <span class="details">Nama Lengkap</span>
+          <input type="text" placeholder="nama lengkap" required>
+        </div>
+        <div class="input-box">
+          <span class="details">Nama Panggilan</span>
+          <input type="text" placeholder="nama panggilan" required>
+        </div>
+        <div class="gender-details">
+          <span class="gender-title">Jenis Kelamin</span>
+          <input type="radio" name="gender" id="male">
+          <input type="radio" name="gender" id="female">
+          <div class="category">
+            <label for="male">
+              <span class="dot male"></span>
+              <span class="gender">Laki-laki</span>
+            </label>
+            <label for="female">
+              <span class="dot female"></span>
+              <span class="gender">Perempuan</span>
+            </label>
+          </div>
+        </div>
+      </div>
+      <div class="button">
+        <input type="submit" value="Daftar">
+      </div>
+    </form>
+  </div>
+</body>
+
+</html>
